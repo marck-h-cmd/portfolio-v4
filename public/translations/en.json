@@ -1,0 +1,116 @@
+{
+  "general": {
+    "name": "Marck Alessandro",
+    "headline": "Web Developer · Full Stack",
+    "location": "Trujillo, Perú",
+    "about": [
+      "Desarrollador Web Full Stack y estudiante de Ingeniería de Sistemas en la Universidad Nacional de Trujillo. Me enfoco en crear aplicaciones web modernas, eficientes y escalables que optimizan procesos y aumentan la productividad.",
+      "Cuento con experiencia en backend y frontend, integración de bases de datos relacionales y NoSQL, APIs, pasarelas de pago online y desarrollo de simulaciones 3D con gemelos digitales."
+    ],
+    "socials": {
+      "email": "mahermenegildopa@unitru.edu.pe",
+      "linkedin": "https://www.linkedin.com/in/marck-alessandro-hermenegildo-pacheco-931a6a2b7/",
+      "github": "https://github.com/marck-h-cmd"
+    }
+  },
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "python",
+      "summary": "APIs backend de alto rendimiento e inferencia de modelos predictivos y Machine Learning.",
+      "tools": ["FastAPI", "PyTorch", "scikit-learn", "LangGraph", "LangChain", "XGBoost"]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "typescript",
+      "summary": "Desarrollo full-stack y arquitectura de plataformas web modernas con Next.js.",
+      "tools": ["Next.js", "React", "Node.js", "Full-Stack"]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "javascript",
+      "summary": "Servicios backend con Node.js/Express, interfaces en React y entornos 3D con Three.js.",
+      "tools": ["Node.js", "Express", "React", "Three.js (3D)"]
+    },
+    {
+      "name": "SQL",
+      "icon": "sql",
+      "summary": "Diseño, modelado y optimización de bases de datos relacionales.",
+      "tools": ["PostgreSQL", "SQL Server", "MySQL"]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Desarrollador Backend",
+      "company": "TRICKS SAC",
+      "href": "https://github.com/Tricks-SoftwareEngineering/e-tricks-backend",
+      "startDate": "06/2025",
+      "endDate": "08/2025",
+      "description": "Desarrollo del backend para la plataforma de comercio electrónico Tricks.pe (retail). Diseño e implementación de endpoints REST, integración con MongoDB Atlas y pasarela de pagos con Mercado Pago.",
+      "skills": ["TypeScript", "Node.js", "Express", "MongoDB", "Mercado Pago"]
+    },
+    {
+      "title": "Desarrollador Web Full Stack",
+      "company": "Robotics Lab - LABCAM",
+      "href": "https://labcam.edu.pe",
+      "startDate": "11/2024",
+      "endDate": "04/2025",
+      "description": "Desarrollo completo de aplicación web institucional con Laravel y MySQL para la gestión y presentación dinámica de proyectos, investigaciones y novedades del laboratorio.",
+      "skills": ["Laravel", "PHP", "MySQL", "JavaScript", "Git", "GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "subject": "Ingeniería de Sistemas",
+      "degree": "Pregrado",
+      "university": "Universidad Nacional de Trujillo",
+      "href": "",
+      "startDate": "2023",
+      "endDate": "PRESENTE",
+      "description": "Formación universitaria orientada a bases sólidas en desarrollo de software, arquitectura de sistemas y tecnologías web."
+    },
+    {
+      "subject": "Programa de Inglés",
+      "degree": "Avanzado (C1)",
+      "university": "El Cultural - Centro Peruano Americano",
+      "href": "",
+      "startDate": "2018",
+      "endDate": "2022",
+      "description": "Culminación de programa de idiomas presencial abarcando niveles Básico (A2), Intermedio (B2) y Avanzado (C1)."
+    }
+  ],
+  "projects": [
+    {
+      "name": "M-11 Digital Twin",
+      "framework": "Python · Three.js",
+      "description": "Gemelo digital 3D y sistema de alerta temprana con Machine Learning (XGBoost, FastAPI, WebSockets) para seguridad en minería subterránea.",
+      "href": "https://digital-twins-mines.vercel.app",
+      "web": "https://digital-twins-mines.vercel.app",
+      "github": "https://github.com/marck-h-cmd/digital-twins-mines"
+    },
+    {
+      "name": "E-Tricks Backend",
+      "framework": "TypeScript · Express",
+      "description": "API REST backend para tienda e-commerce de calzados con autenticación, endpoints de catálogo y base de datos con MongoDB Atlas.",
+      "href": "https://github.com/Tricks-SoftwareEngineering/e-tricks-backend",
+      "web": "",
+      "github": "https://github.com/Tricks-SoftwareEngineering/e-tricks-backend"
+    },
+    {
+      "name": "Portal LABCAM",
+      "framework": "Laravel · PHP",
+      "description": "Plataforma web oficial para el Laboratorio de Control Automático y Robótica (UNT), orientada a proyectos e investigación.",
+      "href": "https://labcam.edu.pe",
+      "web": "https://labcam.edu.pe",
+      "github": "https://github.com/marck-h-cmd/Labcam-Website"
+    },
+    {
+      "name": "PROVALEX",
+      "framework": "Python · Streamlit",
+      "description": "Sistema automatizado de evaluación económica de proyectos con análisis de escenarios, sensibilidad e indicadores financieros (VAN, TIR, WACC).",
+      "href": "https://provalex.streamlit.app",
+      "web": "https://provalex.streamlit.app",
+      "github": "https://github.com/marck-h-cmd/Sistema-Automatizado-de-Evaluacion-y-Analisis-Economico-de-Proyectos"
+    }
+  ]
+}
