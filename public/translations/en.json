@@ -111,6 +111,14 @@
       "href": "https://provalex.streamlit.app",
       "web": "https://provalex.streamlit.app",
       "github": "https://github.com/marck-h-cmd/Sistema-Automatizado-de-Evaluacion-y-Analisis-Economico-de-Proyectos"
+    },
+    {
+      "name": "SON-IA",
+      "framework": "FastAPI · Agentes IA",
+      "description": "Ecosistema de agentes IA para automatización de facturación y cobranzas, integrando modelos LLM (DeepSeek-R1, Gemini 1.5) y FastAPI.",
+      "href": "https://github.com/marck-h-cmd/SON-IA",
+      "web": "",
+      "github": "https://github.com/marck-h-cmd/SON-IA"
     }
   ]
 }

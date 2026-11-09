@@ -8,7 +8,7 @@ Portafolio web desarrollado con [Next.js](https://nextjs.org) y [Tailwind CSS](h
 - **Habilidades:** Tecnologías principales (Python, TypeScript, JavaScript, SQL) con sus herramientas asociadas.
 - **Experiencia:** Trayectoria profesional en backend y full-stack (TRICKS SAC, Robotics Lab - LABCAM).
 - **Educación:** Ingeniería de Sistemas (Pregrado) y Programa de Inglés Avanzado (C1).
-- **Proyectos:** M-11 Digital Twin, E-Tricks Backend, Portal LABCAM y PROVALEX, con accesos a repositorios y aplicaciones en vivo.
+- **Proyectos:** M-11 Digital Twin, SON-IA, E-Tricks Backend, Portal LABCAM y PROVALEX, con accesos a repositorios y aplicaciones en vivo.
 
 ## Desarrollo local
 
